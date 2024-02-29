@@ -4,55 +4,6 @@
 
 }
 
-#general{
-
-    margin: auto;
-    width: 500px;
-    height: 500px;
-    background-color: aquamarine;
-}
-
-
-
-#caja1{
-    margin-top: 15px;
-    text-align: center;
-    margin: auto;
-    width: 450px;
-    height:150px;
-    background-color: powderblue;
-}
-
-#caja2{
-    margin-top: 15px;
-    text-align: center;
-    margin: auto;
-    width: 450px;
-    height: 150px;
-    background-color: paleturquoise;
-}
-
-
-#caja3{
-    margin: 15px;
-    text-align: center;
-    width: 150px;
-    height: 150px;
-    background-color: mediumseagreen;
-    float: right;
-}
-#caja4{
-    margin: 15px;
-    text-align: center;
-    width: 150px;
-    height: 150px;
-    background-color: lightseagreen;
-    float: left;
-}
-
-
-
-
 
 #holi{
     margin: auto;
